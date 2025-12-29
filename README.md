@@ -43,5 +43,10 @@ The system includes user authentication, admin control,book exchange, wishlist, 
 - Libraries:stdio.h, string.h, ctype.h, time.h, conio.h
 
 ---
+👤 Author
+- Name: Md.Siyam Al Islam
+- Department: Software Engineering
+- University: Daffodil International University
+- GitHub: https://github.com/SiyamAl018
 
 
